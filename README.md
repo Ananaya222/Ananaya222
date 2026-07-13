@@ -44,25 +44,25 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 ----
 ##  Projects
 
-### Honey Antimicrobial Property Prediction
+###  [Honey Antimicrobial Property Prediction](YOUR_HONEY_REPO_LINK)
 A machine learning application that predicts the antimicrobial property of honey using physicochemical data. Built with Python and Scikit-learn to provide accurate predictions through a simple web interface.
 
 ---
 
-### Real Estate Booking Management System
+###  [Real Estate Booking Management System](YOUR_REAL_ESTATE_REPO_LINK)
 A Django-based web application for property listing, booking, rental management, and user authentication. Designed to simplify property search and booking for users.
 
 ---
 
-### Road Condition Prediction
+###  [Road Condition Prediction](YOUR_ROAD_CONDITION_REPO_LINK)
 A machine learning project that predicts road conditions using different road and environmental factors. The system helps in understanding road quality through data analysis and prediction.
 
 ---
 
-###  BMI Calculator
+###  [BMI Calculator](YOUR_BMI_REPO_LINK)
 A responsive web application that calculates Body Mass Index (BMI) and shows health categories based on WHO standards. Developed using HTML, CSS, JavaScript, and Flask.
 
 ---
 
-###  Car Price Prediction
+###  [Car Price Prediction](YOUR_CAR_PRICE_REPO_LINK)
 A machine learning project that predicts the price of used cars based on different vehicle features. Built using Python, Pandas, and Scikit-learn to help estimate car prices accurately.
