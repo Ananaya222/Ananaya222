@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
 </p>
 
