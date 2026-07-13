@@ -96,11 +96,12 @@ Jun 2020 – Aug 2023
 
 ----
 ##  Contact
+**Phone:**+91 8722739369
 
-**📧 Email:** your_email@gmail.com
+**Email:** ananyabaleguli@gmail.com
 
-**💼 LinkedIn:** https://linkedin.com/in/your-linkedin
+**LinkedIn:** www.linkedin.com/in/ananya-b-33663b348
 
-**🌐 Portfolio:** https://your-portfolio.com
+**Portfolio:** https://your-portfolio.com
 
-**🐙 GitHub:** https://github.com/your-username
+**GitHub:** https://github.com/Ananaya222
