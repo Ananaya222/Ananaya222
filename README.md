@@ -84,15 +84,13 @@ A machine learning project that predicts the price of used cars based on differe
 
 
 ----
-##  Education
+## Education
 
-**Master of Computer Applications (MCA)**  
-Vivekananda College of Engineering and Technology, Puttur  
-Jan 2023 – Sep 2025
+**Master of Computer Applications (MCA)** *(Jan 2023 – Sep 2025)*  
+Vivekananda College of Engineering and Technology
 
-**Bachelor of Science (B.Sc)**  
-Vivekananda College of Arts, Science and Commerce, Puttur  
-Jun 2020 – Aug 2023
+**Bachelor of Science (B.Sc)** *(Jun 2020 – Aug 2023)*  
+Vivekananda College of Arts, Science and Commerce
 
 ----
 ##  Contact
