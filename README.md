@@ -19,13 +19,12 @@
 
 ## About 
 
-A recent **MCA graduate** with a passion for building reliable software and solving real-world problems through technology.
+A recent MCA graduate who enjoys turning ideas into practical applications through code. I like exploring backend development, databases, and machine learning while continuously learning new technologies and improving my problem-solving skills.
 
-- Exploring Software Development, Backend Development, and AI/ML
-- Hands-on experience with **Python, SQL, Django, FastAPI, Flask, and REST APIs**
-- Built machine learning applications using **Scikit-learn, Pandas, and NumPy**
-- Comfortable working with **MySQL, Oracle SQL, and Snowflake**
-- Developed academic projects including **Honey Antimicrobial Prediction**, **Real Estate Booking Management**, **Road Condition Prediction**, and a **BMI Calculator**
-- Interested in writing clean code, learning new technologies, and continuously improving my development skills
-- Currently looking for **entry-level Software Engineer, Python Developer, Backend Developer, or AI/ML Engineer** opportunities
-
+- Building a strong foundation in **Software Development, Backend Development, and AI/ML**
+- Creating applications using **Python, SQL, Django, FastAPI, Flask, and REST APIs**
+- Exploring data-driven solutions with **Scikit-learn, Pandas, and NumPy**
+- Working with **MySQL, Oracle SQL, and Snowflake** for database development and management
+- Developed projects including **Honey Antimicrobial Prediction**, **Real Estate Booking Management**, **Road Condition Prediction**, and a **BMI Calculator**
+- Always curious to learn, experiment, and grow through real-world projects
+- Open to **Software Engineer, Python Developer, Backend Developer, AI/ML Engineer, and Full Stack Developer** opportunities
