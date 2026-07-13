@@ -70,15 +70,16 @@ A machine learning project that predicts the price of used cars based on differe
 
 -------
 
-## Skills
+##  Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,html,css,js,mysql,git,github,vscode,postman" />
-</p>
+**Programming & Web:** Python • SQL • HTML • CSS • JavaScript
 
-**Libraries:** Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+**Frameworks & Backend:** Django • FastAPI • Flask • REST API
 
-**Database:** Oracle SQL • Snowflake
+**Python Libraries:** Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-**Concepts:** OOP • REST API • CRUD • Django ORM • MVT • Data Preprocessing • Feature Engineering • Classification • Regression • Authentication • Query Optimization
+**Databases:** MySQL • Oracle SQL • Snowflake
+
+**Tools:** Git • GitHub • VS Code • Postman • Jupyter Notebook
+
 
