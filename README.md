@@ -2,7 +2,7 @@
   <img src="banner_image.png" alt="GitHub Banner" width="100%">
 </p>
 
-# Hi, I'm Ananya 👋
+# Hi, I'm Ananya 
 
 ### Building with Python, learning with every commit.
 
