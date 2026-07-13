@@ -86,7 +86,7 @@ A machine learning project that predicts the price of used cars based on differe
 ----
 ## Education
 
-**Master of Computer Applications (MCA)** *(Jan 2023 – Sep 2025)*  
+**Master of Computer Applications (MCA)** *(Dec 2023 – Sep 2025)*  
 Vivekananda College of Engineering and Technology
 
 **Bachelor of Science (B.Sc)** *(Jun 2020 – Aug 2023)*  
