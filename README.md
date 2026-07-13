@@ -59,6 +59,7 @@ A machine learning project that predicts road conditions using different road an
 
 ---
 
+
 ###  [BMI Calculator](YOUR_BMI_REPO_LINK)
 A responsive web application that calculates Body Mass Index (BMI) and shows health categories based on WHO standards. Developed using HTML, CSS, JavaScript, and Flask.
 
@@ -66,3 +67,40 @@ A responsive web application that calculates Body Mass Index (BMI) and shows hea
 
 ###  [Car Price Prediction](YOUR_CAR_PRICE_REPO_LINK)
 A machine learning project that predicts the price of used cars based on different vehicle features. Built using Python, Pandas, and Scikit-learn to help estimate car prices accurately.
+
+-------
+
+## Skills
+
+### Programming & Web
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Backend
+- Django
+- FastAPI
+- Flask
+- REST API
+
+### Python Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+### Databases
+- MySQL
+- Oracle SQL
+- Snowflake
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Jupyter Notebook
+
