@@ -83,3 +83,15 @@ A machine learning project that predicts the price of used cars based on differe
 **Tools:** Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 
+----
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Vivekananda College of Engineering and Technology, Puttur  
+Jan 2023 – Sep 2025
+
+**Bachelor of Science (B.Sc)**  
+Vivekananda College of Arts, Science and Commerce, Puttur  
+Jun 2020 – Aug 2023
+
+
