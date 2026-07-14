@@ -61,13 +61,8 @@ A Django-based web application for property listing, booking, rental management,
 
 ---
 
-###  [Road Condition Prediction](YOUR_ROAD_CONDITION_REPO_LINK)
-A machine learning project that predicts road conditions using different road and environmental factors. The system helps in understanding road quality through data analysis and prediction.
 
----
-
-
-###  [BMI Calculator](YOUR_BMI_REPO_LINK)
+###  [BMI Calculator](https://github.com/Ananaya222/Body_Mass_Index_Calculator)
 A responsive web application that calculates Body Mass Index (BMI) and shows health categories based on WHO standards. Developed using HTML, CSS, JavaScript, and Flask.
 
 ---
