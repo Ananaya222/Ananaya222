@@ -72,6 +72,7 @@ A machine learning project that predicts the price of used cars based on differe
 
 ### [Patient Health Monitoring System](https://github.com/Ananaya222/Patient_Health_Monitoring)
 An IoT-based health monitoring system that tracks heart rate, body temperature, and SpO₂ levels in real time using ESP32 and sensors. Developed using Embedded C, Arduino IDE, and IoT technologies.
+
 -------
 
 ##  Skills
