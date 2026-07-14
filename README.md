@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1b7APg0iUB6acbdNYRYEbRIz2OVWg3Zb5/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume"/>
   </a>
 </p>
