@@ -2,16 +2,23 @@
   <img src="banner_image.png" alt="GitHub Banner" width="100%">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananya-b-33663b348">
+  <a href="https://www.linkedin.com/in/ananya-b-33663b348" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="mailto:ananyabaleguli@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://ananaya222.github.io/portfolio/">
+
+  <a href="https://ananaya222.github.io/portfolio/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume"/>
   </a>
 </p>
 
