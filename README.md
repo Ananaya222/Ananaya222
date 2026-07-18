@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://ananaya222.github.io/portfolio/" target="_blank">
+  <a href="https://ananayabaleguli.github.io/portfolio/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
@@ -51,28 +51,28 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 ----
 ##  Projects
 
-###  [Honey Antimicrobial Property Prediction](https://github.com/Ananaya222/Honey_Prediction)
+###  [Honey Antimicrobial Property Prediction](https://github.com/AnanayaBaleguli/Honey_Prediction)
 A machine learning application that predicts the antimicrobial property of honey using physicochemical data. Built with Python and Scikit-learn to provide accurate predictions through a simple web interface.
 
 ---
 
-###  [Real Estate Booking Management System](https://github.com/Ananaya222/Real-Estate-Booking-Management-System)
+###  [Real Estate Booking Management System](https://github.com/AnanyaBaleguli/Real-Estate-Booking-Management-System)
 A Django-based web application for property listing, booking, rental management, and user authentication. Designed to simplify property search and booking for users.
 
 ---
 
 
-###  [BMI Calculator](https://github.com/Ananaya222/Body_Mass_Index_Calculator)
+###  [BMI Calculator](https://github.com/AnanyaBaleguli/Body_Mass_Index_Calculator)
 A responsive web application that calculates Body Mass Index (BMI) and shows health categories based on WHO standards. Developed using HTML, CSS, JavaScript, and Flask.
 
 ---
 
-###  [Car Price Prediction](https://github.com/Ananaya222/Car-Price-Prediction)
+###  [Car Price Prediction](https://github.com/AnanyaBaleguli/Car-Price-Prediction)
 A machine learning project that predicts the price of used cars based on different vehicle features. Built using Python, Pandas, and Scikit-learn to help estimate car prices accurately.
 
 -------
 
-### [Patient Health Monitoring System](https://github.com/Ananaya222/Patient_Heath_monitoring)
+### [Patient Health Monitoring System](https://github.com/AnanyaBaleguli/Patient_Heath_monitoring)
 An IoT-based health monitoring system that tracks heart rate, body temperature, and SpO₂ levels in real time using ESP32 and sensors. Developed using Embedded C, Arduino IDE, and IoT technologies.
 
 -------
@@ -107,8 +107,8 @@ Vivekananda College of Arts, Science and Commerce
 
 **LinkedIn:** https://www.linkedin.com/in/ananya-b-33663b348
 
-**Portfolio:** https://ananaya222.github.io/portfolio/
+**Portfolio:** https://ananyabaleguli.github.io/portfolio/
 
-**GitHub:** https://github.com/Ananaya222
+**GitHub:** https://github.com/AnanyaBaleguli
 
 
