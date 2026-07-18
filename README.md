@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://drive.google.com/file/d/1b7APg0iUB6acbdNYRYEbRIz2OVWg3Zb5/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1WOj_uz7A5C1orRcGbyIT_8w31yo3loM8/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume"/>
   </a>
 </p>
