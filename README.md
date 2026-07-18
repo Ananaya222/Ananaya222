@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://ananayabaleguli.github.io/portfolio/" target="_blank">
+  <a href="https://ananyabaleguli.github.io/portfolio/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
